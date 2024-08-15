@@ -1,0 +1,17 @@
+{
+  "name": "pb-ex-29",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Create a program that challenges the player to guess a number between 1 and 100.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.1.8",
+    "readline-sync": "^1.4.10"
+  }
+}
